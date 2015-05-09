@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-B4VS4N0V70T</Machine>
+    <WindowsUser>EngSoon</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3ae8f2f6-25c9-4c36-a3af-b0edf3a05062</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\EngSoon\Documents\Visual Studio 2015\Projects\App12\App12\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>012264F94C70151F061E478B6818E67A5FF7AD5C6CF329366C080118F46B0F41</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3ae8f2f6-25c9-4c36-a3af-b0edf3a05062_1.0.0.0_neutral__tq6svbbkrj11e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3ae8f2f6-25c9-4c36-a3af-b0edf3a05062_tq6svbbkrj11e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3ae8f2f6-25c9-4c36-a3af-b0edf3a05062</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=EngSoon</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\EngSoon\Documents\Visual Studio 2015\Projects\App12\App12\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-01T02:49:47.992</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\EngSoon\Documents\Visual Studio 2015\Projects\App12\App12\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <Modified>2015-04-02T09:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EngSoon\Documents\Visual Studio 2015\Projects\App12\App12\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <Modified>2015-04-02T09:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EngSoon\Documents\Visual Studio 2015\Projects\App12\App12\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <Modified>2015-04-02T09:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EngSoon\Documents\Visual Studio 2015\Projects\App12\App12\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <Modified>2015-04-02T09:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EngSoon\Documents\Visual Studio 2015\Projects\App12\App12\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-01T02:49:45.588</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
